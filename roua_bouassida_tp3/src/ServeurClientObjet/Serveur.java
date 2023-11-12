@@ -1,7 +1,8 @@
 package ServeurClientObjet;
 
 //Importation de la classe Operation du package ServeurClientObjet
-import ServeurClientObjet.Operation; 
+import ServeurClientObjet.Operation;
+import roua_bouassida_tp3_1.ClientProcess;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
